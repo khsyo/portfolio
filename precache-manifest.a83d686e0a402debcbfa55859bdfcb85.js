@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee912154c72e7f1551b3e3c1c50717eb",
+    "revision": "e8f7448b0188fe18615783052482441a",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "67332abb5b42548f7aab",
-    "url": "/portfolio/static/css/main.f652ce04.chunk.css"
+    "revision": "17fbca8e876a4dd829cc",
+    "url": "/portfolio/static/css/main.40d71449.chunk.css"
   },
   {
-    "revision": "3ee814529b036141ddfd",
-    "url": "/portfolio/static/js/2.f58c9d22.chunk.js"
+    "revision": "d80a10ccf3ae4f413264",
+    "url": "/portfolio/static/js/2.cca1f315.chunk.js"
   },
   {
-    "revision": "67332abb5b42548f7aab",
-    "url": "/portfolio/static/js/main.15c77028.chunk.js"
+    "revision": "17fbca8e876a4dd829cc",
+    "url": "/portfolio/static/js/main.0f0a1cc8.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
     "url": "/portfolio/static/js/runtime~main.f308c8e6.js"
   },
   {
-    "revision": "5d37fab9b5708c5b518cbce622984e07",
-    "url": "/portfolio/static/media/background_image_malaysia.5d37fab9.png"
+    "revision": "d33b6341021c1759c1909ad6f1fcec46",
+    "url": "/portfolio/static/media/background_image_malaysia_bnw.d33b6341.jpg"
   },
   {
     "revision": "95a9ee6f6721307d542061c1989249d2",
